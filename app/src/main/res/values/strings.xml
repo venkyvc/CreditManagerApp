@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Credit Manager App</string>
+
+    <string name="view_users_btn">VIEW ALL USERS</string>
+
+    <string name="task_info">AN INTERNSHIP OF THE SPARKS FOUNDATION</string>
+
+    <string name="edit_text1_hint">Enter Name</string>
+
+    <string name="edit_text2_hint">Enter Points</string>
+
+    <string name="transfer_btn">Transfer Points</string>
+
+    <string name="intern_name">THE SPARKS FOUNDATION</string>
+
+    <string name="about">This is a Internship task for THE SPARKS FOUNDATION.
+    This Credit management application is solely prepared for the purpose of Internship task under PHASE-1,Task-2.
+    And this application is not meant for deploying in Google play store.
+    The Whole application was coded and Designed By VENKATESH CHOWDARY</string>
+
+</resources>
